@@ -49,6 +49,8 @@ plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - 'jekyll/scholar'
+
 
 
 #       ____              _             __  _
